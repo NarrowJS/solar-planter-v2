@@ -14,3 +14,11 @@ Did some more work on the CAD model by adding a cutout for the wires from the so
 ![5/18](assets/3.png)
 
 **Total time: 1.6 hrs**
+
+## May 19 2026
+
+Added in the rest of the components to the schematic and finished all of the remaining routes. I'm still not fully settled on the components and I might end up exposing some more of the wires in order to allow for easier future expansion. I'm also still not sure how much IO I want to have besides the switch and usb-c for programming, since everything else has to be done through the software at the moment.
+
+![5/19](assets/4.png)
+
+**Total time: 1.4 hrs**
