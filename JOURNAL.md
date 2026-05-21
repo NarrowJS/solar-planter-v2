@@ -22,3 +22,11 @@ Added in the rest of the components to the schematic and finished all of the rem
 ![5/19](assets/4.png)
 
 **Total time: 1.4 hrs**
+
+## May 29 2026
+
+Polished up the schematic and went over each part and compared it to the datasheet to make sure I didn't make any careless mistakes. I was able to catch a couple, the i2c pins werent connected, a couple of capacitors were too small, and the voltage divider on the boost circuit was incorrect. I also made some of the connections less confusing and reorganized the layout for readability. It's now time to route all of the traces on the pcb.
+
+![5/19](assets/5.png)
+
+**Total time: 1.5 hrs**
