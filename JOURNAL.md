@@ -29,4 +29,14 @@ Polished up the schematic and went over each part and compared it to the datashe
 
 ![5/19](assets/5.png)
 
-**Total time: 1.5 hrs**
+time: 1.5 hrs
+
+Polished up the schematic and went over each part and compared it to the datasheet to make sure I didn't make any careless mistakes. I was able to catch a couple, the i2c pins werent connected, a couple of capacitors were too small, and the voltage divider on the boost circuit was incorrect. I also made some of the connections less confusing and reorganized the layout for readability. It's now time to route all of the traces on the pcb.
+
+![5/19](assets/6.png)
+![5/19](assets/7.png)
+
+I decided to double check the current draw of MT3608 and found that it draws quite a bit of current even when it is idle. This would be the case for my board since I had EN hardwired to the SYS voltage wire. To improve efficiency, I added in a pull up resistor connected to a pin on the ESP32 so that I could programatically switch off the boost converter when I know that I will not need it, for ex in deep sleep. This should have a big impact on battery.
+
+time: 0.5 hrs
+**Total time: 2 hrs**
