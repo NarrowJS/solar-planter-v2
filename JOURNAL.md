@@ -38,4 +38,13 @@ time: 1.5 hrs
 I decided to double check the current draw of MT3608 and found that it draws quite a bit of current even when it is idle. This would be the case for my board since I had EN hardwired to the SYS voltage wire. To improve efficiency, I added in a pull up resistor connected to a pin on the ESP32 so that I could programatically switch off the boost converter when I know that I will not need it, for ex in deep sleep. This should have a big impact on battery.
 
 time: 0.5 hrs
+
 **Total time: 2 hrs**
+
+## May 21 2026
+
+Started working on the PCB design and arranged all of the footprints so that hopefully it will be easier to route all of them. I realized that I completely messed up the footprints for the connectors and the resistors/capacitors since some of them were in 0201 size, which is way smaller than 0603. After fixing that I also had to enlarge the pads for the solar/led connection, but I decided to keep the sensors as pins since they already have dupont cables included.
+
+![5/21](assets/8.png)
+
+**Total time: 1.4 hrs**
