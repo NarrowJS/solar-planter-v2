@@ -48,3 +48,11 @@ Started working on the PCB design and arranged all of the footprints so that hop
 ![5/21](assets/8.png)
 
 **Total time: 1.4 hrs**
+
+## June 8 2026
+
+Started routing the traces for the PCB. Before that, I added in an extra couple of pins to breakout the i2c line to make this board more versatile if I wanted to switch out the sensors some time in the future. I routed almost all of the pads that I could without switching to the back layer since I don't want to use too many unneccessary vias. I'm pretty happy with how they're looking right now and this definitely has to be one of my neatest looking boards so far.
+
+![6/8](assets/9.png)
+
+**Total time: 2 hrs**
