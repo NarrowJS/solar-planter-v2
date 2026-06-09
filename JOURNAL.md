@@ -65,3 +65,11 @@ Finished all of the routes for the PCB, fixed some of the silk screen, added in 
 ![6/9-2](assets/11.png)
 
 **Total time: 2.3 hrs**
+
+
+After sending my PCB and schematic for some feedback, I got a suggestion to make the traces for the power lines a bit wider. So I changed all of the power carrying traces (except for the battery ones) to use 0.4mm trace widths instead of the default 0.25mm. I also added in some silk screen on the maximum input voltage for the solar panel as a safety in case I want to experiment with different panels in the future.
+
+![6/9-3](assets/12.png)
+![6/9-4](assets/13.png)
+
+**Total time: 1 hr**
