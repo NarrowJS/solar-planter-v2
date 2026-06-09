@@ -56,3 +56,11 @@ Started routing the traces for the PCB. Before that, I added in an extra couple 
 ![6/8](assets/9.png)
 
 **Total time: 2 hrs**
+
+## June 9 2026
+
+Finished all of the routes for the PCB, fixed some of the silk screen, added in labels, and created the ground fill. Unfortunately there a couple of islands created via the ground fill, and I couldn't figure out how to easily fix without putting a via on the pad. Although this should be fine, this did make the board not as clean as I wanted it to be. On the flip side, I also added in some beautiful rounded corners which I plan on doing for every PCB I make from now on. Time to get the board checked and make any small modifications that might be needed.
+
+![6/8](assets/9.png)
+
+**Total time: 2.3 hrs**
