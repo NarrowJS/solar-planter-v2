@@ -76,7 +76,7 @@ After sending my PCB and schematic for some feedback, I got a suggestion to make
 
 Did some more on the 3D model and added in the removable plant-pot enclosure. The plan is to have this be completely isolated from the electronics enclosure, and secure the plant-pot holder with magnets which would let you easily take it out and drain any water that gets collected in the bottom. It will also have the benefit of added customizability, since it would be easy to tweak the holder for smaller pots.
 
-![6/9-5](assets/15.png)
+![6/9-5](assets/14.png)
 
 
 **Total time: 1.6 hr**
