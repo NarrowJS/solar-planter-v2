@@ -80,3 +80,12 @@ Did some more on the 3D model and added in the removable plant-pot enclosure. Th
 
 
 **Total time: 1.6 hr**
+
+Polished up the 3D model and added in some missing features such as the holes for the m3 bolts to mount the top of the base to the bottom along with the cut outs for the ports to access the pcb's switch and usb-c port. I also changed the plant pot holder to look more aesthetically pleasing. Althouugh the second wall on the outside will use up more material, I think it makes the build look much more polished than before. I also added some screw holes to connect the sensor enclosure, which will have to be assembled seperately from the rest of the enclosure.
+
+![6/10-1](assets/15.png)
+![6/10-2](assets/16.png)
+![6/10-3](assets/17.png)
+
+
+**Total time: 2.5 hrs**
