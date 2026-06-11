@@ -1,0 +1,38 @@
+Id;Designator;Footprint;Quantity;Designation;Part #;Link
+1;S1;SW_EG1247;1;EG1247;C431548;https://www.lcsc.com/product-detail/C431548.html
+2;D3;LED_0805_2012Metric;1;CHARGE LED;C19273154;https://www.lcsc.com/product-detail/C19273154.html
+3;C4,C5,C1,C2;C_0402_1005Metric;4;100nF;C60474;https://www.lcsc.com/product-detail/C60474.html
+4;U1;XCVR_ESP32-C6-MINI-1-H4;1;ESP32-C6-MINI-1-H4;C6553337;https://www.lcsc.com/product-detail/C6553337.html
+5;3V3;PinHeader_1x01_P2.54mm_Vertical;1;MOISTURE_VCC;;
+6;GND;SolderWirePad_1x01_SMD_1x2mm;1;LED_GND;;
+7;R3,R4,R5,R10,R15,R8,R9,R7;R_0603_1608Metric;8;10k;C95204;https://www.lcsc.com/product-detail/C95204.html
+8;C8,C9;C_0603_1608Metric;2;22uF;C86295;https://www.lcsc.com/product-detail/C86295.html
+9;R6,R12;R_0603_1608Metric;2;1k;C5362357;https://www.lcsc.com/product-detail/C5362357.html
+10;R2,R1;R_0603_1608Metric;2;5k1;C2907044;https://www.lcsc.com/product-detail/C2907044.html
+11;D;PinHeader_1x01_P2.54mm_Vertical;1;MOISTURE_DATA;;
+12;5V;PinHeader_1x01_P2.54mm_Vertical;1;TEMP_VCC;;
+13;BOOT,RST;SW_PTS810_SJM_250_SMTR_LFS;2;PTS810_SJM_250_SMTR_LFS;C116501;https://www.lcsc.com/product-detail/C116501.html
+14;C6,C11,C3;C_0603_1608Metric;3;10uF;C19702;https://www.lcsc.com/product-detail/C19702.html
+15;D5;D_SMA;1;SS34;C908680;https://www.lcsc.com/product-detail/C908680.html
+16;GND;PinHeader_1x01_P2.54mm_Vertical;1;TEMP_GND;;
+17;U3;SOT-23-6;1;MT3608;C84817;https://www.lcsc.com/product-detail/C84817.html
+18;C7,C10;C_0402_1005Metric;2;1uF;C29266;https://www.lcsc.com/product-detail/C29266.html
+19;IC1;SOT94P280X100-5N;1;RT9080-33GJ5;C841192;https://www.lcsc.com/product-detail/C841192.html
+20;+ -;JST_S2B-PH-SM4-TB;1;S2B-PH-SM4-TB;C295747;https://www.lcsc.com/product-detail/C295747.html
+21;D2,D1;D_SOD-323;2;1N5819WS;C191023;https://www.lcsc.com/product-detail/C191023.html
+22;J1;HRO_TYPE-C-31-M-12;1;TYPE-C-31-M-12;C165948;https://www.lcsc.com/product-detail/C165948.html
+23;+;SolderWirePad_1x01_SMD_1x2mm;1;+SOLAR;;
+24;3V3;PinHeader_1x01_P2.54mm_Vertical;1;3V3;;
+25;GND;PinHeader_1x01_P2.54mm_Vertical;1;MOISTURE_GND;;
+26;SDA;PinHeader_1x01_P2.54mm_Vertical;1;SDA;;
+27;L1;D_SMP_DO-220AA;1;CD32;C41408473;https://www.lcsc.com/product-detail/C41408473.html
+28;GND;PinHeader_1x01_P2.54mm_Vertical;1;LED_GND;;
+29;R11;R_0603_1608Metric;1;7K5;C23234;https://www.lcsc.com/product-detail/C23234.html
+30;D;SolderWirePad_1x01_SMD_1x2mm;1;LED_DATA;;
+31;5V;SolderWirePad_1x01_SMD_1x2mm;1;LED_VCC;;
+32;SCL;PinHeader_1x01_P2.54mm_Vertical;1;SCL;;
+33;-;SolderWirePad_1x01_SMD_1x2mm;1;SOLAR-;;
+34;R14;R_0603_1608Metric;1;100k;C14675;https://www.lcsc.com/product-detail/C14675.html
+35;U2;DFN-10-1EP_3x3mm_P0.5mm_EP1.7x2.5mm;1;PQ25186DLHR;C44639442;https://www.lcsc.com/product-detail/C44639442.html
+36;D;PinHeader_1x01_P2.54mm_Vertical;1;TEMP_DATA;;
+37;R13;R_0603_1608Metric;1;27k;C22967;https://www.lcsc.com/product-detail/C22967.html

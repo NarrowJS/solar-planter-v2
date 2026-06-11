@@ -89,3 +89,12 @@ Polished up the 3D model and added in some missing features such as the holes fo
 
 
 **Total time: 2.5 hrs**
+
+Finally finished the 3D model. I went over all of the screw holes and fixed some of the sizing, since for some of the holes the diameter was too small to fit the m3 bolts I'm planning on using. I also added some stand offs to mount the PCB with and created the cutouts for the magnets that I will insert into the enclosure halfway during the 3d print, this way they will be hidden and securely fit into place. Lastly, I increased the height of the overall pot to accomodate the standard plant holder that I have.
+
+![6/11-1](assets/18.png)
+![6/11-2](assets/19.png)
+![6/11-3](assets/20.png)
+
+
+**Total time: 1.2 hrs**
